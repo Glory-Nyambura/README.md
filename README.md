@@ -9,10 +9,6 @@ I am a Data Science enthusiasts an currently
 - HTML/CSS
 - MySQL
 
-  ## Skills
-- Python <i class="fab fa-python"></i>
-- Django <i class="fab fa-django"></i>
-
 ## Let's connect 
 - Email: glorykaranja254@gmail.com
 - LinkedIn: https://www.linkedin.com/in/glory-karanja-a7675a263
